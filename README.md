@@ -1,5 +1,5 @@
 ### Hi there 👋
-I write JavaScript for living and sometimes for fun./
+I write JavaScript for living and sometimes for fun.   
 Here are some of my projects:
 
 #### OpenSource
