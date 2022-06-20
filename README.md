@@ -11,5 +11,5 @@ Here are some of my projects:
 
 ----
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorfv)](https://github.com/igorfv)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfv&hide=asp&layout=compact)](https://github.com/igorfv)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorfv)](https://github.com/igorfv?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfv&hide=asp&layout=compact)](https://github.com/igorfv?tab=repositories)
